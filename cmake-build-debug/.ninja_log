@@ -1,0 +1,6 @@
+# ninja log v5
+0	192	6959313494853091	CMakeFiles/MemoryGameSDL.dir/main.c.obj	934e4bb3bf75ec0f
+193	325	6959313495894632	MemoryGameSDL.exe	b22f69c71bd3735e
+0	60	6962822209689461	build.ninja	e44ae35b3e4ad9f
+1	492	6962822227219806	CMakeFiles/MemoryGameSDL.dir/main.c.obj	934e4bb3bf75ec0f
+493	678	6962822228627582	MemoryGameSDL.exe	b22f69c71bd3735e
